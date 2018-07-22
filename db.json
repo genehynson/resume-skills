@@ -1,0 +1,25 @@
+{
+    "skills":[
+        {
+          "name":"C#",
+          "level":"90%"
+        },
+        {
+          "name":"NodeJS",
+          "level":"70%"
+        },
+        {
+          "name":"ReactJS",
+          "level":"70%"
+        },
+        {
+          "name":"Java",
+          "level":"80%"
+        },
+        {
+          "name":"Neo4j",
+          "level":"30%"
+        }
+        
+      ]
+}
