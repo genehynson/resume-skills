@@ -1,25 +1,44 @@
 {
-    "skills":[
-        {
-          "name":"C#",
-          "level":"90%"
-        },
-        {
-          "name":"NodeJS",
-          "level":"70%"
-        },
-        {
-          "name":"ReactJS",
-          "level":"70%"
-        },
-        {
-          "name":"Java",
-          "level":"80%"
-        },
-        {
-          "name":"Neo4j",
-          "level":"30%"
-        }
-        
-      ]
+  "skills": [
+    {
+      "name": "C#",
+      "level": 90,
+      "id": 1
+    },
+    {
+      "name": "NodeJS",
+      "level": 70,
+      "id": 2
+    },
+    {
+      "name": "ReactJS",
+      "level": 70,
+      "id": 3
+    },
+    {
+      "name": "Java",
+      "level": 60,
+      "id": 4
+    },
+    {
+      "name": "Neo4j",
+      "level": 35,
+      "id": 5
+    },
+    {
+      "name": "SQL",
+      "level": 40,
+      "id": 6
+    },
+    {
+      "name": "PCF",
+      "level": 90,
+      "id": 7
+    },
+    {
+      "name": "Python",
+      "level": 75,
+      "id": 8
+    }
+  ]
 }
