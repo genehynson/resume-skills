@@ -4,4 +4,4 @@ applications:
   command: node server.js
   memory: 256MB
   instances: 1
-  buildpack: nodejs_buildpack_latest
+  buildpack: nodejs_buildpack
