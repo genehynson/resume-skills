@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "10.17.x"
+    "node": "10.23.x"
   },
   "repository": {
     "type": "git",

@@ -2,6 +2,6 @@
 applications:
 - name: Resume-Skills
   command: node server.js
-  memory: 256MB
+  memory: 56MB
   instances: 1
   buildpack: nodejs_buildpack
